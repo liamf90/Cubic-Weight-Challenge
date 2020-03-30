@@ -46,7 +46,7 @@ class MainFragment : Fragment() {
         }
 
         viewModel.averageCubicWeight.observe(viewLifecycleOwner, Observer {
-            it?.let{averageCubicWeightTextView.text = String.format("%.2f %s", it, getString(R.string.kg))}
+            it?.let{averageCubicWeightTextView.text = String.format("%.3f %s", it, getString(R.string.kg))}
         })
 
         viewModel.productsCount.observe(viewLifecycleOwner, Observer {

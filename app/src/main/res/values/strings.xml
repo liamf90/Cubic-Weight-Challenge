@@ -3,6 +3,6 @@
     <string name="kg">kg</string>
     <string name="start">Start</string>
     <string name="average_cubic_weight">Average Cubic Weight:</string>
-    <string name="products_found">Products Found:</string>
+    <string name="air_cons_found">Air Conditioners Found:</string>
 
 </resources>
