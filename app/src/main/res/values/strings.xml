@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kogan Air Con Challenge</string>
+    <string name="kg">kg</string>
+    <string name="start">Start</string>
+    <string name="average_cubic_weight">Average Cubic Weight:</string>
+    <string name="products_found">Products Found:</string>
+
+</resources>
